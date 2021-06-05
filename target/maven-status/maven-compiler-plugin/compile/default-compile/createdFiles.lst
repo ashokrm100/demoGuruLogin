@@ -1,0 +1,11 @@
+com\Demoguru\PageObjects\DemoGuruLoginPage.class
+com\Demoguru\Utility\ITestListeners.class
+com\Demoguru\PageObjects\NewCustomer.class
+com\Demoguru\BaseTest\BaseTest.class
+com\Demoguru\Data\LoginData.xlsx
+com\Demoguru\PageObjects\SetConfig.class
+com\Demoguru\Reports\ExtentReporter.class
+com\Demoguru\Utility\ExcelUtility.class
+com\Demoguru\Utility\GetScreenShot.class
+log4j2.xml
+com\Demoguru\Config\config.properties

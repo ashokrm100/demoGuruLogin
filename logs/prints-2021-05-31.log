@@ -1,0 +1,7 @@
+22:26:26.864 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Password send
+22:26:30.920 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Login Successfull
+22:28:35.246 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Driver Initialized
+22:28:35.296 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Username send
+22:28:37.446 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Password send
+22:28:41.543 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Login Successfull
+22:31:59.723 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Driver Initialized

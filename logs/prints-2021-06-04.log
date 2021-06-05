@@ -1,0 +1,6 @@
+20:18:16.726 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Click on add new customer
+20:18:35.350 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Details Added Successfully
+20:18:35.803 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Customer added successfully
+20:57:48.934 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Driver Initialized
+20:57:49.375 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Username send
+20:57:56.145 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Password send

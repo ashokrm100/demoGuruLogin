@@ -1,0 +1,5 @@
+19:18:56.102 [main] INFO  com.Demoguru.TestCases.TC_001_Login - Login Successfull
+19:19:26.852 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Customer Page Opened
+19:19:26.880 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Click on add new customer
+19:19:39.052 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Details Added Successfully
+19:19:39.125 [main] INFO  com.Demoguru.TestCases.TC_003_AddCustomerTest - Customer added successfully
